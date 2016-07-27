@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/style.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/tokyofarmer/com/uk/tf/adapters/DocumentAdapter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/tokyofarmer/com/uk/tf/adapters/DocumentViewHolder.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/tokyofarmer/com/uk/tf/models/FragmentModel.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/tokyofarmer/com/uk/tf/rest/ApiService.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/tokyofarmer/com/uk/tf/rest/CustomSSLSocketFactory.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/tokyofarmer/com/uk/tf/rest/ServiceClient.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/tokyofarmer/com/uk/tf/utils/Common.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/empty.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_keyboard_arrow_down_black_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_keyboard_arrow_right_black_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/item_doc.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/item_doc_center_text.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/item_doc_empty.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/item_doc_header.xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
